@@ -1,4 +1,4 @@
-from sklearn.dataset import load_iris
+"""from sklearn.dataset import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score
@@ -18,4 +18,5 @@ y_pred = clf.predict(x_test)
 
 # calcular la precision del calsificador
 accuracy = accuracy_score(y_test, y_pred)
-print("Precision del clasificador: ", accuracy)
+print("Precision del clasificador: ", accuracy)"""
+
